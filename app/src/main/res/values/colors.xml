@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f74b4e</color>
+    <color name="colorPrimaryDark">#f74b4e</color>
+    <color name="colorAccent">#f74b4e</color>
+    <color name="textBlack">#000000</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="title_background">#f74b4e</color>
+    <color name="app_dark_green">#1f5621</color>
+
+</resources>
